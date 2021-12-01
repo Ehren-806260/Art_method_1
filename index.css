@@ -1,5 +1,19 @@
-.original{
+.original {
     font-size: 1 rem;
+    color: red;
+}
+.forEngineerA {
+    width: 100px;
+}
+
+p {
+    color: royalblue;
+}
+
+div {
+    border-top: royalblue;
+}
+
 }
 
 div{
@@ -11,3 +25,4 @@ button{
     color: darkblue ;
     font-size: 1.2em ;
 }
+
